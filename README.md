@@ -6,7 +6,7 @@
   <body>  
     <div style="text-align: center">
        <a href="link">
-          <img src=""https://github.com/Pra3496/BasicCoreProgramsCShp/blob/main/BasicCore.PNG" " align="center"></a>
+          <img src=""https://github.com/Pra3496/BasicCoreProgramsCShp/blob/main/BasicCore.PNG" alt="FinalResult" align="center"></a>
     </div>
    
   </body>  
