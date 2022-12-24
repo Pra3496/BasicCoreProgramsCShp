@@ -5,7 +5,7 @@
  </head>  
   <body>  
     
-      <img <center> src="https://github.com/Pra3496/BasicCoreProgramsCShp/blob/main/BasicCore.PNG" alt="Programing"   </center>  />  
+      <img src="https://github.com/Pra3496/BasicCoreProgramsCShp/blob/main/BasicCore.PNG" alt="Programing" align="center" />  
    
   </body>  
 </html>    
